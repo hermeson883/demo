@@ -1,4 +1,3 @@
 # demo
 
--leaning
-- git code
+-leaning GitHub
