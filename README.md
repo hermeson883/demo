@@ -2,5 +2,5 @@
 
 -leaning GitHub
 
-1. I kno whow to push notification
+1. I know whow to push notification
 
